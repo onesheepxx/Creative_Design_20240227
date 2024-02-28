@@ -1,2 +1,2 @@
-# Creative_Design_20240227
+# Creative_Interaction_Design_2024Spring
 first class
